@@ -5,7 +5,7 @@ This repository outlines the **Machine Learning Development Life Cycle (MLDLC)**
 ## Contents
 
 1. **Data Gathering**: Collecting and understanding the data required for solving the problem. This section covers various data sources, formats, and initial insights about the dataset.
-   - Notebook: `Data_Gathering_CSV.ipynb`,'Data_Gathering_API.ipynb'
+   - Notebook: `Data_Gathering_CSV.ipynb`,`Data_Gathering_API.ipynb`
 
 2. **Data Preprocessing**: Cleaning and preparing the data to ensure quality and consistency. This includes handling missing values, data normalization, and encoding categorical variables.
    - Notebook: `data_preprocessing.ipynb`
